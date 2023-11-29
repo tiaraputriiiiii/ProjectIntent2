@@ -2,11 +2,8 @@
 
 ```
 Nama : Tiara Putri
-
 NIM : 312210064
-
 Kelas : TI.22.A1
-
 Mata Kuliah : Pemrograman Mobile 1
 ```
 
