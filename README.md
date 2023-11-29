@@ -1289,7 +1289,9 @@ private void openMaps(Uri geoLocation) {
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
 
-https://github.com/tiaraputriiiiii/ProjectIntent2/assets/115775237/c4e06b9a-5e84-4e52-861a-f72b6f716b97
+
+https://github.com/tiaraputriiiiii/ProjectIntent2/assets/115775237/3790641d-4535-4fc4-b0ab-a4869074169e
+
 
 
 ## Finish, Terima Kasih
